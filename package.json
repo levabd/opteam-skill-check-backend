@@ -37,7 +37,7 @@
     "cross-env": "^5.1.0",
     "eslint": "^4.15.0",
     "eslint-plugin-vue-libs": "^2.1.0",
-    "laravel-mix": "^1.7.2",
+    "laravel-mix": "^2.0",
     "vue-template-compiler": "^2.5.13",
     "webpack-bundle-analyzer": "^2.9.2"
   }
