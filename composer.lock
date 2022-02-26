@@ -22,7 +22,7 @@
             },
             "require": {
                 "php": ">=5.5.9",
-                "symfony/http-foundation": "~2.7|~3.0|~4.0",
+                "symfony/http-foundation": "3.4.35",
                 "symfony/http-kernel": "~2.7|~3.0|~4.0"
             },
             "require-dev": {
@@ -76,7 +76,7 @@
                 "asm89/stack-cors": "^1.2",
                 "illuminate/support": "5.3.x|5.4.x|5.5.x|5.6.x",
                 "php": ">=5.5.9",
-                "symfony/http-foundation": "^3.1|^4",
+                "symfony/http-foundation": "3.4.35",
                 "symfony/http-kernel": "^3.1|^4"
             },
             "require-dev": {
@@ -731,7 +731,7 @@
                 "symfony/console": "~3.3",
                 "symfony/debug": "~3.3",
                 "symfony/finder": "~3.3",
-                "symfony/http-foundation": "~3.3",
+                "symfony/http-foundation": "3.4.35",
                 "symfony/http-kernel": "~3.3",
                 "symfony/process": "~3.3",
                 "symfony/routing": "~3.3",
@@ -2137,7 +2137,7 @@
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v3.4.3",
+            "version": "v3.4.35",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
@@ -2208,7 +2208,7 @@
                 "psr/log": "~1.0",
                 "symfony/debug": "~2.8|~3.0|~4.0",
                 "symfony/event-dispatcher": "~2.8|~3.0|~4.0",
-                "symfony/http-foundation": "^3.3.11|~4.0"
+                "symfony/http-foundation": "^3.4.35"
             },
             "conflict": {
                 "symfony/config": "<2.8",
@@ -2581,7 +2581,7 @@
                 "symfony/config": "~2.8|~3.0|~4.0",
                 "symfony/dependency-injection": "~3.3|~4.0",
                 "symfony/expression-language": "~2.8|~3.0|~4.0",
-                "symfony/http-foundation": "~2.8|~3.0|~4.0",
+                "symfony/http-foundation": "~3.4.35",
                 "symfony/yaml": "~3.4|~4.0"
             },
             "suggest": {
