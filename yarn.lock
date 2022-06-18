@@ -2097,9 +2097,9 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
 
-ejs@^2.6.1:
-  version "2.7.4"
-  resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.7.4.tgz#48661287573dcc53e366c7a1ae52c3a120eec9ba"
+ejs@3.1.7:
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/ejs/-/ejs-3.1.7.tgz#48661287573dcc53e366c7a1ae52c3a120eec9ba"
 
 electron-releases@^2.1.0:
   version "2.1.0"
@@ -6747,7 +6747,7 @@ webpack-bundle-analyzer@^3.3.2:
     bfj "^6.1.1"
     chalk "^2.4.1"
     commander "^2.18.0"
-    ejs "^2.6.1"
+    ejs "3.1.7"
     express "^4.16.3"
     filesize "^3.6.1"
     gzip-size "^5.0.0"
